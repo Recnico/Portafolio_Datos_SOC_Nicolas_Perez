@@ -1,14 +1,14 @@
 # 🛡️ Portafolio: Ciberseguridad & Análisis de Datos
 ## Nicolás Pérez Cerda | Ingeniero en Conectividad y Redes
 
-> Analista enfocado en la intersección entre infraestructura de red, seguridad operativa (SOC) y ciencia de datos. Especializado en la creación de informes técnicos, automatización con Python y monitoreo de eventos críticos.
+> Analista enfocado en la intersección entre infraestructura de red, seguridad operativa (SOC) y  datos. Especializado en la creación de informes técnicos, Python y monitoreo de eventos críticos.
 
 ---
 
 ## 🛠️ Stack Tecnológico para SOC
 * **Análisis de Datos:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI.
 * **Seguridad y Monitoreo:** SIEM (Wazuh), Cisco ASA, Wireshark, Nmap.
-* **Sistemas:** Linux (Kali), Windows Server, Virtualización.
+* **Sistemas:** Linux (Kali).
 
 ---
 
@@ -43,8 +43,9 @@
 ---
 
 ## 🎓 Formación Relevante
-* **Bootcamp Análisis de Datos** | Alkemy (En curso)
+* **Bootcamp Análisis de Datos** | Alkemy 
 * **Bootcamp Seguridad en Redes de Datos** | Desafío Latam (2025)
+* **Corder House  |Junio 2025**
 * **Ingeniería en Conectividad y Redes** | IP San Sebastián
 
 ---
